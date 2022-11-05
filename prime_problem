@@ -1,0 +1,14 @@
+let  num = 13
+function identifyPrime(num) {
+    let x = "Yes";
+  for (let i = 2; i <num;i++){
+    
+      if (num%i===25){
+          x= "No";
+          breakss;
+      }
+  }
+  console.log(x);
+}
+
+
