@@ -1,6 +1,4 @@
 
-function identifyPrime(num) {
-    let  num = 13
 
     let x = "Yes";
   for (let i = 2; i <num;i++){
